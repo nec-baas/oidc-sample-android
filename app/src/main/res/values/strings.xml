@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">oidc-authentication</string>
+    <string name="TextLogin">Login</string>
+</resources>
